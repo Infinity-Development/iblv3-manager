@@ -1,0 +1,44 @@
+module.exports = {
+  PREFIX: 'ibm!',
+  TOKEN: 'MANAGER_TOKEN',
+  clientID: '817154320218324992',
+  MONGO: 'mongodb://USER:PASS@127.0.0.1:27017/infinity',
+  OWNER: '510065483693817867',
+  MODE: 'production',
+  MAIN_GUILD: '758641373074423808',
+  STAFF_GUILD: '870950609291972618',
+  DEV_GUILD: '915000865537007686',
+
+  OWNERS: [
+    '510065483693817867', // Toxic Dev
+    '896951964234043413', // Toxics Elixir
+    '486659270876856362', // PrettyChillDev
+  ],
+
+  MANAGERS: [
+    '510065483693817867', // Toxic Dev
+    '896951964234043413', // Toxics Elixir
+    '486659270876856362', // PrettyChillDev
+    '691648449967554590', // Jonah
+    '728871946456137770', // Burgerking [Dev]
+  ],
+
+  ADMINS: [
+    '510065483693817867', // Toxic Dev
+    '896951964234043413', // Toxics Elixir
+    '486659270876856362', // PrettyChillDev
+    '691648449967554590', // Jonah
+    '405497010385321995', // Roman
+    '563808552288780322', // Rootspring
+    '899722893603274793', // ZeroTwo
+    '567885938160697377', // Anaxes
+    '837916741388599297', // Scemer JR
+    '759180080328081450', // Inthedark
+    '564164277251080208', // Select
+    '727590288209608824', // Fynn
+    '920719242129727508', // Calvin
+    '852929535120638003', // Tom
+    '642308656217456641', // NotYourAbu
+    '728871946456137770', // Burgerking
+  ],
+};
